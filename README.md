@@ -8,7 +8,7 @@
 
 **현재는 서버개발**🖥️에 집중하여 학습하고 있습니다. MSA, Event Driven, DDD등에 관심이 많아 향후 로드맵으로 계획하고 있습니다.
 
-### Stack
+## Stack
 - Java, Spring, Spring boot
 - HTML, CSS, Javascript
 - RDB, NoSQL
