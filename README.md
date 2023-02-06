@@ -1,6 +1,6 @@
 ## Server Developer
-🌏https://iconcert8.github.io  
-📧iconcert8@gmail.com
+🌏**블로그**: https://iconcert8.github.io  
+📧**이메일**: iconcert8@gmail.com
 
 **3년 차 서비스 개발자**👷로 서버 및 프론트를 개발했습니다. 스타트업에서 프로젝트의 설계와 개발, 운영에 참여했습니다. 
 모든 프로젝트의 책임 개발자로 업무를 진행하였습니다. 다중 프로세스 기반의 윈도우 프로그램 개발을 다수 진행하였고 제품들은 실제 팩토리와 연구원에서 사용 중입니다.
