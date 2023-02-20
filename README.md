@@ -15,7 +15,7 @@
 - Docker, Redis, MessageBroker
 - Flutter, Unity, Winform 
 
-[![iconcert8's GitHub stats](https://github-readme-stats.vercel.app/api?username=iconcert8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iconcert8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
