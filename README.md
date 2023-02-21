@@ -1,4 +1,4 @@
-## Server Developer
+## Backend Developer
 🌏**블로그**: https://iconcert8.github.io  
 📧**이메일**: iconcert8@gmail.com
 
